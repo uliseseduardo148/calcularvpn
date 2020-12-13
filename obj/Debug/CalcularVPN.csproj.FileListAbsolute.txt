@@ -1,0 +1,7 @@
+C:\Users\cliente-preferido\source\repos\CalcularVPN\bin\Debug\CalcularVPN.exe.config
+C:\Users\cliente-preferido\source\repos\CalcularVPN\bin\Debug\CalcularVPN.exe
+C:\Users\cliente-preferido\source\repos\CalcularVPN\bin\Debug\CalcularVPN.pdb
+C:\Users\cliente-preferido\source\repos\CalcularVPN\obj\Debug\CalcularVPN.csprojAssemblyReference.cache
+C:\Users\cliente-preferido\source\repos\CalcularVPN\obj\Debug\CalcularVPN.csproj.CoreCompileInputs.cache
+C:\Users\cliente-preferido\source\repos\CalcularVPN\obj\Debug\CalcularVPN.exe
+C:\Users\cliente-preferido\source\repos\CalcularVPN\obj\Debug\CalcularVPN.pdb
